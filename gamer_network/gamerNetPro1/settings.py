@@ -26,7 +26,7 @@ SECRET_KEY = '4@0lb^dn8$*s&r0i_s3msglj9y)*_0dhh4vo^%ty1!82b0bvlt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gamer-network-challenge.herokuapp.com']
 
 
 # Application definition
